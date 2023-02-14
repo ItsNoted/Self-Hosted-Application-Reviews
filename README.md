@@ -1,4 +1,4 @@
-# Self Hosted Application Reviews
+# [Self Hosted Application Reviews](https://noted.lol)
  A list of applications that you can host on your own that have been reviewed on the Noted.lol website.
 
 ## Self Hosted URL Shorteners
