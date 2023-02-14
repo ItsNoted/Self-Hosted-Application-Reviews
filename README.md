@@ -10,3 +10,10 @@
 
 ## Self Hosted Commenting Systems
 * [Commento](https://github.com/souramoo/commentoplusplus) - A Self Hosted Comment System for Websites That Just Works | [Our review of Commento](https://noted.lol/commento-a-self-hosted-comment-system-for-websites-that-just-works/)
+
+## Self Hosted Server Orchestrators
+* [Yacht](https://github.com/SelfhostedPro/Yacht) - Launch Docker Apps Quick and Easy - Portainer Alternative | [Our review of Yacht](https://noted.lol/yacht/)
+* [Tipi](https://github.com/meienberger/runtipi) - A Self Hosted Personal Home Server Orchestrator | [Our review of Tipi](https://noted.lol/tipi-a-self-hosted-personal-home-server-orchestrator/)
+
+## Self Hosted Recipes
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - The Self Hosted Recipe Manager | [Our review of Tandoor Recipes](https://noted.lol/tandoor-recipes-the-self-hosted-recipe-manager/)
