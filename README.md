@@ -1,5 +1,7 @@
 # [Self Hosted Application Reviews](https://noted.lol)
-🚀 A list of applications that you can host on your own that have been reviewed on the Noted.lol website. 🚀
+🚀 A list of applications that you can host on your own that have been reviewed on the Noted.lol website. 🚀 
+
+Have an idea for a review? We'd love to hear from you about it! Jump over to the discussions and submit it in [Review Suggestions](https://github.com/ItsNoted/Self-Hosted-Application-Reviews/discussions/categories/review-suggestions)!
 
 ## Self Hosted URL Shorteners
 * [ZipLine](https://github.com/diced/zipline) - A Self Hosted ShareX Server | [Our review of ZipLine](https://noted.lol/zipline/)
