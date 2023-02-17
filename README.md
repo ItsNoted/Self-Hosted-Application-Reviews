@@ -40,3 +40,10 @@ Have an idea for a review? We'd love to hear from you about it! Jump over to the
 ## Self Hosted To-do/Project Management
 * [Vikunja](https://vikunja.io/) - The Self Hosted To-Do App to Organize Your Life | [Our review of Vikunja](https://noted.lol/vikunja-the-to-do-app-to-organize-your-life/)
 * [Leantime](https://leantime.io/) - An Open Source and Self Hosted Project Management Solution | [Our review of Leantime](https://noted.lol/leantime-an-open-source-and-self-hosted-project-management-solution/)
+
+## Self Hosted Media Serving
+* [ZipLine](https://github.com/diced/zipline) - A Self Hosted ShareX Server | [Our review of ZipLine](https://noted.lol/zipline/)
+* [Audiobookshelf](https://github.com/advplyr/audiobookshelf) - A Self Hosted Audiobook and Podcast Server with Phone Apps | [Our review of Audiobookshelf](https://noted.lol/audiobookshelf-a-self-hosted-audiobook-and-podcast-server-with-phone-apps/)
+* [Midarr](https://github.com/midarrlabs/midarr-server) - A Minimal Lightweight Media Server | [Our review of Midarr](https://noted.lol/midarr-a-minimal-lightweight-media-server/)
+* [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Request Management and Media Discovery Tool for the Jellyfin Ecosystem | [Our review of Jellyseerr](https://noted.lol/jellyseerr/)
+* [TubeArchivist](https://github.com/bbilly1/tubearchivist) -  Your self hosted YouTube media server  | [Our review of TubeArchivist](https://noted.lol/how-i-control-what-media-my-kids-watch-using-tube-archivist/)
