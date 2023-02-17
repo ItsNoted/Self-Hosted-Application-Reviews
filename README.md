@@ -39,4 +39,4 @@ Have an idea for a review? We'd love to hear from you about it! Jump over to the
 
 ## Self Hosted To-do/Project Management
 * [Vikunja](https://vikunja.io/) - The Self Hosted To-Do App to Organize Your Life | [Our review of Vikunja](https://noted.lol/vikunja-the-to-do-app-to-organize-your-life/)
-* [Leantime]https://leantime.io/) - An Open Source and Self Hosted Project Management Solution | [Our review of Leantime](https://noted.lol/leantime-an-open-source-and-self-hosted-project-management-solution/)
+* [Leantime](https://leantime.io/) - An Open Source and Self Hosted Project Management Solution | [Our review of Leantime](https://noted.lol/leantime-an-open-source-and-self-hosted-project-management-solution/)
